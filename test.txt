@@ -1,4 +1,12 @@
 first github.com
 hello world
 New Dev branch
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 fix bug 20
+=======
+功能1开发中
+>>>>>>> Stashed changes
+=======
+功能1开发中
+>>>>>>> Stashed changes
