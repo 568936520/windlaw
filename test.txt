@@ -12,4 +12,8 @@ fix bug 20
 >>>>>>> Stashed changes
 test
 同事A开发的
+<<<<<<< Updated upstream
 同事A新功能
+=======
+同事B新功能
+>>>>>>> Stashed changes
