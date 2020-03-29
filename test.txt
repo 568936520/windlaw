@@ -12,3 +12,4 @@ fix bug 20
 >>>>>>> Stashed changes
 test
 同事A开发的
+同事A新功能
